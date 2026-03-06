@@ -22,11 +22,11 @@ public class Principal {
         do {
         	System.out.println("\n---HOLA, ESTE ES TU CAJERO AUTOMATICO ---");
             System.out.println("\n--- PARA REALIZAR UNA ACCION INGRESA EL NUMERO QUE CORRESPONDA ---");
-            System.out.println("1-- ALTA CLIENTE");
-            System.out.println("2-- CONSULTA SALDO");
-            System.out.println("3-- DEPOSITO EN EFECTIVO");
-            System.out.println("4-- RETIRO EN EFECTIVO");
-            System.out.println("5-- SALIR");
+            System.out.println("1---- ALTA CLIENTE");
+            System.out.println("2---- CONSULTA SALDO");
+            System.out.println("3---- DEPOSITO EN EFECTIVO");
+            System.out.println("4---- RETIRO EN EFECTIVO");
+            System.out.println("5---- SALIR");
             
             menu = lectura.nextInt();
 
